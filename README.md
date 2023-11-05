@@ -21,5 +21,8 @@ You play as Julius Time, the apprentice of Master Uhu, who is a watchmaker. Your
 
 ### Introduction
 
-My main focus for this project was to able to plan the project as clearly for my teammates as possible and make it as adaptable too. Meaning that, if any sudden changes were needed in the project, they'd be implemented immediately without causing a hassle for the team, or worse, stop the project from moving forward. Even so, without proper experience, it proved to be a difficult task. During the start of the project, I took the time to make it as simple for the team to communicate to each other with the use of Discord.
+My main focus for this project was to able to plan the project as clearly for my teammates as possible and make it as adaptable too. Meaning that, if any sudden changes were needed in the project, they'd be implemented immediately without causing a hassle for the team, or worse, stop the project from moving forward. Even so, without proper experience, it proved to be a difficult task. During the start of the project, I took the time to make it as simple for the team to communicate to each other with the use of Discord in the style of Slack where we had different channels dedicated to each part of the game i.e. game design, sound design etc.  
+
+
+
 
